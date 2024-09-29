@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727183070 source:c:\users\ycode\desktop\exercice 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727254583 source:c:\users\ycode\desktop\condition ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
