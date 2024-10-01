@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1727806896 source:c:\users\ycode\desktop\projet gestion de contact\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
