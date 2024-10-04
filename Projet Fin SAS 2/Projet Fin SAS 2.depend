@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1727998491 source:c:\users\asus\desktop\final projet\projet fin sas 2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
